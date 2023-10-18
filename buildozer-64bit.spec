@@ -216,7 +216,7 @@ fullscreen = 0
 # (list) Android shared libraries which will be added to AndroidManifest.xml using <uses-library> tag
 #android.uses_library =
 
-# (str) Android logcat filters to use
+# (str ) Android logcat filters to use
 #android.logcat_filters = *:S python:D
 
 # (str) Android additional adb arguments
