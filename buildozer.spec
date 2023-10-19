@@ -442,7 +442,7 @@ warn_on_root = 1
 #    and extend the excluded directories to remove the HD content.
 #
 #[app@demo]
-#title = My Application (demo)
+#title = My Application (demo)7
 #
 #[app:source.exclude_patterns@demo]
 #images/hd/*

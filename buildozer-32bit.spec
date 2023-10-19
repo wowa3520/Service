@@ -4,7 +4,7 @@
 title = Mortgage Calculator
 
 # (str) Package name
-package.name = service
+package.name =
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
@@ -34,6 +34,7 @@ version = 0.1
 # version.regex = __version__ = ['"](.*)['"]
 # version.filename = %(source.dir)s/main.py
 
+
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
 requirements = python3,kivy==2.0.0,kivymd,https://github.com/kivymd/KivyMD/archive/3274d62.zip,sdl2_ttf==2.0.15
@@ -60,6 +61,7 @@ orientation = all
 
 #
 # author = © Copyright Info
+
 
 # change the major version of python used by the app
 osx.python_version = 3
